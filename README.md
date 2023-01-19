@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka
-- 👀 I’m mostly interested in backend development with Java and Spring boot. Software testing and SQL are also in scope of my interests.
-- 🌱 I’m currently learning how to use various Spring framework features to enhance functionalities of my existing projects.
+- 👀 I’m mostly interested in frontend development in Angular. Backend development with Java, Spring boot and SQL are also in scope of my interest.
+- 🌱 I’m currently learning how to enhance my knowledge of Angular features and implement them using best practices both in my professional and personal projects.
 - 📫 Reach me via e-mail: pendeljluka@gmail.com
 
 <!---
