@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luka, Junior Frontend developer.
-- 👀 I’m mostly interested in frontend development in Angular. Backend development with Java, Spring boot and MySQL are also in scope of my interest.
+- 👀 I’m mostly interested in frontend development using popular frameworks like Angular and React. Backend development with Java, Spring boot and MySQL are also in scope of my interest.
 - 🌱 I’m currently learning how to enhance my knowledge of Angular features and implement them using best practices both in my professional and personal projects.
 - 📫 Reach me via e-mail: pendeljluka@gmail.com
 
