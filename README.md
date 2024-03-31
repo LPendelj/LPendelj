@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luka, Junior Frontend developer.
+- 👋 Hi, I’m Luka, aspiring Fullstack developer.
 - 👀 I’m mostly interested in frontend development using popular frameworks like Angular and React. Backend development with Node.js, Express, Java, Spring boot and MySQL are also in scope of my interest.
 - 🌱 I’m currently learning how to enhance my knowledge of Angular features and implement them using best practices both in my professional and personal projects.
 - 📫 Feel free to reach me via e-mail: pendeljluka@gmail.com
