@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luka, an aspiring Full-stack developer.
-- 👀 I’m mostly interested in frontend development using popular frameworks like Angular and React with libraries like Material, PrimeNG and TailwindCSS. Backend development with Node.js, Express, NestJS, Java, Spring boot and MySQL are also in scope of my interest.
+- 👀 I’m mostly interested in frontend development using popular frameworks like Angular and React with libraries like Material, PrimeNG and TailwindCSS. Backend development with Node.js, Express, NestJS, Java, Spring boot and MySQL is also in scope of my interest.
 - 🌱 I’m currently learning how to enhance my knowledge of Angular features and implement them using best practices both in my professional and personal projects.
 - 📫 Feel free to reach me via e-mail: pendeljluka@gmail.com
 
